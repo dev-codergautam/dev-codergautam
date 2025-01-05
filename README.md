@@ -3,8 +3,8 @@
 <meta name="keyword" content="Gautam Kumar, Gautam, codergautam, coder gautam, coder gautam Github, Github">
 
 <h1 align="center">Hi, I'm Gautam Kumar  👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-codergautam&label=Profile%20views&color=1c87ca&style=flat" alt="codergautam" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-codergautam&label=Profile%20views&color=1c87ca&style=flat" alt="codergautam" /> </p>
+ -->
 <h2>About Me🧑🏼‍💻</h2>
 
 <ul type="none">
